@@ -1,0 +1,43 @@
+p{
+    color: #c9995d;
+}
+
+
+header {
+  color: #58804d;
+}
+
+a:link{
+  color: #ff0000;
+  text-decoration: none;
+}
+a:hover {
+  color: #ffff00;
+  text-decoration: none;
+}
+a:visited{
+  color: #00ff00;
+}
+main{
+
+}
+#vintagegreen{
+  color: #58804d;
+}
+.oldgreen{
+  color: #58804d;
+}
+.vintageorange{
+  color: #c9995d;
+}
+.oldorange{
+  color: #58804d;
+  background-color: #c9995d;
+}
+.oldgreenwitholdorangbackground{
+  color: #58804d;
+  background-color: #c9995d;
+}
+footer{
+  color: #58804d;
+}
