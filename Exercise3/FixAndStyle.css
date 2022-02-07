@@ -1,0 +1,42 @@
+h1{
+  color: #ffffff;
+  background-color: #lightblue;
+  border: 2px solid #0000ff;
+  padding: 20px 20px 20px 20px;
+  margin: 10px 10px 10px 10px;
+}
+h2{
+  color: #0000ff;
+}
+h3{
+  background-color: #ffff00;
+}
+h4{
+  color: #ffff00;
+  background-color: #006400;
+}
+h5{
+  color: #ff0000;
+}
+.boldandorange{
+  color: #fd5800;
+  font-weight: bold;
+}
+.P1{
+  border: 2px solid #0000ff;
+  padding: 20px 20px 20px 20px;
+  margin: 10px 10px 10px 10px;
+}
+a:hover{
+  color: #00ff00;
+}
+.red{
+  color: #ff0000;
+}
+.lightgreen{
+  background-color: #99ee99;
+}
+.blue{
+  color: #0000ff;
+    font-weight: bold;
+}
