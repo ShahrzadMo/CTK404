@@ -1,0 +1,32 @@
+body{
+  font-family: Helvetica, Arial, sans-serif;
+  padding: 0;
+  margin: 0;
+}
+
+.container {
+      min-height: 140vh;
+      background: url("02.png") no-repeat;
+      background-size: 100vw;
+      width: 100%;
+}
+
+.navbar-wrapper {
+      display:block;
+      justify-content: space-between;
+      padding-right: 24px;
+}
+
+.navbar {
+      display: flex;
+      flex-direction: column;
+      text-align: right;
+}
+
+.navbar-item {
+  margin-top:150px;
+  text-decoration:none;
+  color: white;
+  font-weight: bold;
+  font-size: 16px;
+}
